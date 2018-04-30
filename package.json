@@ -1,0 +1,20 @@
+{
+  "name": "electrical-quiz-init",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dotenv": "^5.0.1",
+    "express": "^4.16.3",
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  }
+}
